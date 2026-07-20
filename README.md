@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1536" height="960" alt="image" src="https://github.com/user-attachments/assets/3b070b1a-73e1-4cb6-a294-156568d15fd3" /><div align="center">
 
 # 🎬 MovX
 
@@ -11,6 +11,7 @@ A lightweight desktop app for watching your favorite movies and shows — with a
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/Kishanx08/movx/releases)
 
 </div>
+<img width="1536" height="960" alt="image" src="https://github.com/user-attachments/assets/63a3bf8f-7535-455a-bb9b-f26847ade460" />
 
 ---
 
@@ -42,7 +43,8 @@ That's it — you're ready to stream.
 
 ## 🖼️ Preview
 
-*(add a screenshot or GIF of the app here — a home screen shot and one mid-stream work great)*
+<img width="495" height="381" alt="image" src="https://github.com/user-attachments/assets/ccd7a9af-362f-4f3a-9bee-3c828b3e6840" />  ![Uploading image.png…]() 
+
 
 ## ❓ FAQ
 
