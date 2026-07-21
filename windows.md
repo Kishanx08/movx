@@ -10,8 +10,8 @@
 
 ---
 
-<a href="https://github.com/Kishanx08/movx/releases">
-  <img src="https://img.shields.io/badge/⚡%20Download-MovX%20Setup.exe-0078D6?style=for-the-badge&logo=windows11&logoColor=white" height="48" />
+<a href="https://github.com/Kishanx08/movx/releases/latest/download/MovX-Setup.exe">
+  <img src="https://img.shields.io/badge/⚡%20Direct%20Download-MovX%20Setup.exe-0078D6?style=for-the-badge&logo=windows11&logoColor=white" height="48" />
 </a>
 
 </div>

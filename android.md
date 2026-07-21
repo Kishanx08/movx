@@ -10,7 +10,7 @@
 
 ---
 
-<a href="https://github.com/Kishanx08/movx/releases/latest/download/app-release.apk">
+<a href="https://github.com/Kishanx08/movx/releases/latest/download/movx-android.apk">
   <img src="https://img.shields.io/badge/⚡%20Direct%20Download-MovX%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="48" />
 </a>
 
