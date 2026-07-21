@@ -10,7 +10,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/Kishanx08/movx?style=for-the-badge&color=8A2BE2&label=Latest%20Release&logo=github)](https://github.com/Kishanx08/movx/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Kishanx08/movx/total?style=for-the-badge&color=00D26A&label=Downloads&logo=getgogo)](https://github.com/Kishanx08/movx/releases)
-[![License](https://img.shields.io/github/license/Kishanx08/movx?style=for-the-badge&color=FF6B6B&label=License)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-FF6B6B?style=for-the-badge)](LICENSE)
 [![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Android-0078D6?style=for-the-badge)](https://github.com/Kishanx08/movx/releases)
 
 ---
